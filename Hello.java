@@ -2,7 +2,7 @@ public class Hello
 { 
     public static void main( String argv[] ) 
     {
-	String name = "World";
+	String name = "Stockton";
         if (argv.length != 0)
         {
              name = argv[0];
